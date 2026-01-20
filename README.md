@@ -3,7 +3,7 @@
 A modern, responsive **client-side image editor** built using **Vanilla JavaScript**, **HTML5 Canvas**, and **CSS**.  
 The application allows users to apply real-time image filters, use predefined presets, and download edited images — all directly in the browser with **no backend required**.
 
-🔗 **Live Demo:** Add your GitHub Pages link here
+🔗 **Live Demo:** https://arghyawebdev.github.io/Web-Based-Image-Editor/
 
 ---
 
@@ -55,11 +55,4 @@ The application allows users to apply real-time image filters, use predefined pr
 
 The design prioritizes **layout stability**, **usability**, and **clean interaction patterns**.
 
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/image-editor-web.git
 
